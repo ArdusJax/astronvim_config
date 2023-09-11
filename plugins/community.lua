@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.nightfox-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.colorscheme.oxocarbon-nvim" },
+  { import = "astrocommunity.pack.python" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.utility.noice-nvim" },
 }

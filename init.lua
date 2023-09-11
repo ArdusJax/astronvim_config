@@ -19,8 +19,8 @@ return {
 
   -- Set colorscheme to use
   --  colorscheme = "oxocarbon",
-  --colorscheme = "nightfox",
-  colorscheme = "kanagawa",
+  colorscheme = "nightfox",
+  --colorscheme = "kanagawa",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
